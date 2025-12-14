@@ -99,6 +99,7 @@ img {
 }
 
 .mainB {
+	white-space: pre-wrap;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -107,6 +108,7 @@ img {
 }
 
 .mainW {
+	white-space: pre-wrap;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
