@@ -22,6 +22,12 @@ img {
 	height: auto;
 }
 
+audio {
+   width:100%;
+   min-height: 30px;
+   display:block;
+}
+
 .ptBtn_grid {
 	display: grid;
 	width: 100%;
